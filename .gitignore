@@ -1,0 +1,12 @@
+.idea/*
+*.pyc
+output.tmp/
+wandb/
+.idea
+.ipynb_checkpoints/
+__pycache__
+.vscode
+.pytype
+data/*
+!data/.gitkeep
+
